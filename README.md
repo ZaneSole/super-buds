@@ -1,2 +1,0 @@
-# super-buds
-Begin app
